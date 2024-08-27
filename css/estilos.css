@@ -1,0 +1,60 @@
+body{
+background: #E2BFD9;
+}
+
+h1{
+font-family:"Arial";
+background: #674188;
+color: pink;
+text-align: center;
+padding: 5px;
+margin-bottom: 0px;
+margin: 0auto;
+
+}
+
+h3{
+font-family:"Arial";
+color: #1F316F;
+text-align: center;
+}
+
+a{
+background:#674188;
+color:pink;
+text-align: center;
+padding: 5px;
+margin-bottom: 0px;
+margin: 0auto;
+}
+
+a:hover{
+background:#674188;
+color:pink;
+font-weight: bold;
+}
+
+p {
+text-align: center;
+}
+
+.dev-texto{
+width: 500px;
+background:#674188;
+color:pink;
+text-align: center;
+padding: 5px;
+margin: 0 auto;
+}
+
+hr{
+width: 600px;
+background:#674188;
+height: 10px;
+border: 0px;
+}
+
+video {
+	display: block;
+	margin: 0 auto;
+}
